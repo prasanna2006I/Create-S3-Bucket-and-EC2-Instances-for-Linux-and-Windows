@@ -1,24 +1,66 @@
- # CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
-  ## AIM
-       To Create S3 bucket and EC2 Instances for Linux and Windows.
+# CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
+## AIM
+To Create S3 bucket and EC2 Instances for Linux and Windows.
 ## PROBLEM STATEMENT
-    Explain about the Experiment.
-
+Explain about the Experiment.
 ## ALGORITHM
- ### Steps 1:
- ### Steps 2:
- ### Steps 3:
- ### Steps 4:
- ### Steps 5:
-## COMMANDS
-Include the commands used in the Experiment.
+## Step 1:
+Log in to AWS Console
 
+## Step 2: Create an S3 Bucket
+Navigate to the S3 service.
+Click on Create bucket.
+Enter a Bucket name and select a Region.
+Configure Bucket settings as required (e.g., versioning, public access).
+Click on Create bucket to finalize.
+
+## Step 3: Create an EC2 Instance (Linux)
+Go to the EC2 service.
+Click on Launch Instance.
+Select an Amazon Machine Image (AMI) for Linux (e.g., Amazon Linux 2).
+Choose an Instance Type (e.g., t2.micro for free tier).
+Configure Instance Details, Storage, and Security Group.
+Review and click Launch with a key pair (or create one if needed).
+
+## Step 4: Create an EC2 Instance (Windows)
+Return to the EC2 service and click Launch Instance.
+Select a Windows AMI (e.g., Windows Server 2019).
+Choose the Instance Type.
+Configure Instance Details, Storage, and Security Group.
+Review and launch with a key pair (for future login).
+
+## Step 5: Verify and Connect to Instances
+Verify the status of both instances in the EC2 dashboard.
+Connect to the Linux instance using SSH.
+Connect to the Windows instance using RDP.
+### REG NUMBER:212223220079
+### NAME:prasanna i
 ## OUTPUT
-### REG NUMBER:
-### NAME:
- 
- Include your Screenshots Here.
+# S3 Bucket
+![image](https://github.com/user-attachments/assets/841d77ab-4828-46cb-97fc-04ceb06774c2)
+
+![image](https://github.com/user-attachments/assets/0240a07d-b478-49a1-b0b4-de317d940035)
+
+![image](https://github.com/user-attachments/assets/6be3e8a6-62e9-438d-857f-969c0e1a6100)
+
+![image](https://github.com/user-attachments/assets/2e530af2-d883-4423-a480-1a36896a41a9)
+
+# EC2 Instance (LINUX)
+
+![image](https://github.com/user-attachments/assets/5476be34-7d16-4f99-9512-5561e058806d)
+
+![image](https://github.com/user-attachments/assets/5ee9c274-917a-463b-9592-9325812dc7f2)
+
+
+![image](https://github.com/user-attachments/assets/dd4e76e8-5bc2-47ff-9e4d-9ebc9a069238)
+
+# EC2 INSTANCE (WINDOWS)
+![image](https://github.com/user-attachments/assets/dc864d64-465c-41c2-b9bf-8255e998aeb7)
+![image](https://github.com/user-attachments/assets/08cbb1ad-d038-49b9-a5b3-8a158664a8df)
+![image](https://github.com/user-attachments/assets/d62b88a9-64da-4d40-84af-ffb44ee118a5)
+
 ## RESULT
+Successfully created an S3 bucket and EC2 instances for both Linux and Windows, demonstrating cloud resource management on AWS.
  
 
   
