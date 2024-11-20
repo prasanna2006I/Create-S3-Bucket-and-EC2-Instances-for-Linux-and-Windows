@@ -1,4 +1,4 @@
-# CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
+![image](https://github.com/user-attachments/assets/17215220-34ea-414b-9d08-2da4c2cba85f)# CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
 ## AIM
 To Create S3 bucket and EC2 Instances for Linux and Windows.
 ## PROBLEM STATEMENT
@@ -49,7 +49,7 @@ Connect to the Windows instance using RDP.
 
 ![image](https://github.com/user-attachments/assets/5476be34-7d16-4f99-9512-5561e058806d)
 
-![image](https://github.com/user-attachments/assets/5ee9c274-917a-463b-9592-9325812dc7f2)
+![image](https://github.com/user-attachments/assets/a88b21dc-59a1-4c75-8916-9debda820f62)
 
 
 ![image](https://github.com/user-attachments/assets/dd4e76e8-5bc2-47ff-9e4d-9ebc9a069238)
