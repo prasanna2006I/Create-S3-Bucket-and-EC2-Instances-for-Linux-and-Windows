@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/17215220-34ea-414b-9d08-2da4c2cba85f)# CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
+# CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
 ## AIM
 To Create S3 bucket and EC2 Instances for Linux and Windows.
 ## PROBLEM STATEMENT
